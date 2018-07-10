@@ -1,5 +1,5 @@
 # React Template App
-**A webpack setup / first React application for Epicodus 06.24.18**
+**A webpack setup / first React application for Epicodus 06.27.18**
 
 ## By Bobby Martin
 
